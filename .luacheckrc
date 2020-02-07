@@ -3,7 +3,7 @@ allow_defined_top = true
 max_line_length = 999
 
 globals = {
-	"minetest"
+    "minetest"
 }
 
 read_globals = {
